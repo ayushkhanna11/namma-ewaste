@@ -21,7 +21,6 @@ Bengaluru generates over **100,000 tonnes of e-waste annually**, but less than 1
 
 **Namma E-Waste** solves this bottleneck by shifting the paradigm from **individual collection to community threshold aggregation**. Household units and corporate spaces log their discarded electronics onto a localized dashboard. Once a hub reaches a minimum weight threshold (60 kg for societies, 100 kg for tech parks), an automated alert triggers a bulk pickup, drastically reducing carbon emissions and logistical overhead.
 
-*This project is being developed as a student-led prototype for the **GYCN SDG Summit in Malaysia**.*
 
 ---
 
