@@ -14,7 +14,7 @@ Bengaluru generates over **100,000 tonnes of e-waste annually**, but less than 1
 
 **Namma E-Waste** solves this bottleneck by shifting the paradigm from **individual collection to community threshold aggregation**. Household units and corporate spaces log their discarded electronics onto a localized dashboard. Once a hub reaches a minimum weight threshold (60 kg for societies, 100 kg for tech parks), an automated alert triggers a bulk pickup, drastically reducing carbon emissions and logistical overhead.
 
-*This project is being developed as a student-led prototype for the **GYCN SDG Summit in Malaysia**.*
+
 
 ---
 
@@ -40,7 +40,13 @@ Bengaluru generates over **100,000 tonnes of e-waste annually**, but less than 1
 ## 🚀 How to Run Locally
 
 Since this is a lightweight, single-file client-side application, no node dependencies or installation processes are required:
+---
 
+## 📄 Prototype Disclaimer
+
+*Note: This repository hosts a student-driven demo prototype. The dispatch notification system simulates backend vehicle dispatch responses locally to demonstrate user workflows without triggering external emergency or municipal API calls.*
+
+---
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git](https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git)
